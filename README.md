@@ -1,9 +1,6 @@
-poky-base
+poky-app-lighttpd
 ===========
 
-Poky base image for docker
-
-default user:
-username: root
+Poky app image for docker
 
 ===========
